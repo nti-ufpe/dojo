@@ -1,9 +1,6 @@
-Maximus Decimus
+NTI-UFPE Dojo Repository
 ==============
 
-First dojo NTI-UFPE
+
+Oretachi no dojo desu
 -------------------
-
-Partipants:
-[TODO]
-
