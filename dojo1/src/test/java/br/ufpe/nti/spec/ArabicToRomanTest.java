@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import br.ufpe.nti.tdd.romans.MaximusDecimus;
 
-public class ArabicToRoman {
+public class ArabicToRomanTest {
 
 	@Before
 	public void setUp() throws Exception {
@@ -58,7 +58,6 @@ public class ArabicToRoman {
 		
 	}
 	
-	@Test	
 	public void testeBase100(){
 		String expected = "C";
 		int value = 100;

@@ -63,7 +63,7 @@ public class MaximusDecimus {
 				roman += "C";
 			}
 		}else{
-			roman += 
+			//roman += 
 		}
 		
 		//int dezena = value/100;

@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class RomanToArabic {
+public class RomanToArabicTest {
 
 	@Before
 	public void setUp() throws Exception {
